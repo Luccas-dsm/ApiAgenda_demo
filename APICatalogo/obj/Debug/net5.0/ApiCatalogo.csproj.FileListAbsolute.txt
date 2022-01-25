@@ -1,0 +1,111 @@
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\appsettings.Development.json
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\appsettings.json
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.exe
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.deps.json
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.runtimeconfig.json
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.runtimeconfig.dev.json
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\ref\ApiCatalogo.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.pdb
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\MySqlConnector.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\Remotion.Linq.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csprojAssemblyReference.cache
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.AssemblyInfoInputs.cache
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.AssemblyInfo.cs
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\staticwebassets\ApiCatalogo.StaticWebAssets.Manifest.cache
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\staticwebassets\ApiCatalogo.StaticWebAssets.xml
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\scopedcss\bundle\ApiCatalogo.styles.css
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.RazorTargetAssemblyInfo.cache
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csproj.CopyComplete
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ref\ApiCatalogo.dll
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.pdb
+C:\_Cursos_Macoratti\Curso_Web_API_Essencial\3_ASP .NET Core_WEB_API\APICatalogo_Projeto\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.genruntimeconfig.cache
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csprojAssemblyReference.cache
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.AssemblyInfoInputs.cache
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.AssemblyInfo.cs
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ref\ApiCatalogo.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.pdb
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\appsettings.Development.json
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\appsettings.json
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.exe
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.deps.json
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.runtimeconfig.json
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.runtimeconfig.dev.json
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\ref\ApiCatalogo.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.pdb
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\MySqlConnector.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\Remotion.Linq.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\bin\Debug\net5.0\System.Interactive.Async.dll
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\staticwebassets\ApiCatalogo.StaticWebAssets.Manifest.cache
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\staticwebassets\ApiCatalogo.StaticWebAssets.xml
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\scopedcss\bundle\ApiCatalogo.styles.css
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.RazorTargetAssemblyInfo.cache
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csproj.CopyComplete
+D:\_curso_webapi_ajustes\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.genruntimeconfig.cache
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\appsettings.json
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.StaticWebAssets.xml
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.exe
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.deps.json
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.runtimeconfig.json
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.runtimeconfig.dev.json
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ref\ApiCatalogo.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\ApiCatalogo.pdb
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csproj.AssemblyReference.cache
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.AssemblyInfo.cs
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\scopedcss\bundle\ApiCatalogo.styles.css
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\staticwebassets\ApiCatalogo.StaticWebAssets.Manifest.cache
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.RazorTargetAssemblyInfo.cache
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.csproj.CopyComplete
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ref\ApiCatalogo.dll
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.pdb
+C:\Users\lucca\Desktop\APICatalogo\APICatalogo\obj\Debug\net5.0\ApiCatalogo.genruntimeconfig.cache
